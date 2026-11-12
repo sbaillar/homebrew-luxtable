@@ -1,6 +1,6 @@
 cask "luxtable" do
-  version "0.5.7"
-  sha256 "42c33e1dcd6829a7e90642119e562e25805e354ba8a4c977a3b20adc59501896"
+  version "0.5.8"
+  sha256 "4e17e975b5f7f1ff84541d6426000a926217d20675c9f6a0fe2543da90adfa59"
 
   url "https://github.com/sbaillar/luxtable/releases/download/v#{version}/Luxtable-#{version}-macos-arm64.dmg"
   name "Luxtable"
